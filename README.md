@@ -5,7 +5,7 @@ El archivo adjunto tiene dos pestañas:
 ## 1. General ##
 ### En este dashboard se incluyó: ###
 - Una visualización de **mapa** para conocer la **presencia** de Superstore
-- Una visualización de **barras**, para conocer el **top de las 10 ciudades** con más ventas}
+- Una visualización de **barras**, para conocer el **top de las 10 ciudades** con más ventas
 - Una visualiación de **pastel** para conocer la **participación de venta por categoría**
 - Una visualización de **barras** para conocer las **ventas y ganancia por año**
 - Dos **tarjetas**, una con el **total de ventas** y otra con el **total de ganancia**
